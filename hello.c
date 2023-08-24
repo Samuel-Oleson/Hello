@@ -2,6 +2,7 @@
  * Author: Samuel Oleson
  * Date: 2023/08/24
  *
+ * A program that says my name in C
  *
  */
 
