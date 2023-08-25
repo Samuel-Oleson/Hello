@@ -9,8 +9,10 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-int main(int, argc, char **arggv) {
-    Print("Samuel Oleson/n");
+int main(int argc, char **arggv) {
 
-    Return 0;
+  printf("Samuel Oleson\n");
+  printf("Computer Engineering\n");
+
+  return 0;
 }
